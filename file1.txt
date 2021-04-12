@@ -8,3 +8,4 @@ Hopefully it does!!
 Now this line of code is a change in the repository so that 
 I can see the change reflected on computer (in VS code)
 ===============================================
+And all looks well! (this message from VS code, which was opened in the Git bash shell)

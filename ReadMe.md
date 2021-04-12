@@ -1,7 +1,7 @@
-# Read Me
-Patrick LaChapelle
-Document created: April 12, 2021
-Lastr updated: April 12, 2021
+# Read Me  
+Patrick LaChapelle  
+Document created: April 12, 2021  
+Last updated: April 12, 2021  
 ---
 ## Overview
 The purpose of this repository is to gain comfortability in using Git from the command line. I previously have experience using Git version control through the Github web GUI as well as the desktop interface. In the past, this was sufficient, as I primarily used it for collaboration on projects during my Undergrad. As a Physics student, nobody expected me to be comfortable with the command line, but it is now obvious that becoming comfortable will substantially aid my career development - in scientific research as well as engineering. 
