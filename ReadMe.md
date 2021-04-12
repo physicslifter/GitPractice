@@ -8,3 +8,5 @@ The purpose of this repository is to gain comfortability in using Git from the c
 
 ### File 1
 FIle 1 (File1.txt) was one of the first test files that I wrote. It contains some simple introduction text that was present in the tutprial that I followed from YouTube (available here: https://www.youtube.com/watch?v=8JJ101D3knE&t=2788s&ab_channel=ProgrammingwithMosh ) The tutorial got kind of slow and I got bored so I just moved on about halfway through and completed the rest on my own. 
+
+# Hello!
